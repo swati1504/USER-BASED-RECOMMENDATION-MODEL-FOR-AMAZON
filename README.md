@@ -22,6 +22,6 @@ Build a recommendation model on training data
 
 Make predictions on the test data
 
-The recommendation model has been deployed based on collaborative filtering using the concept of cosine similarity matrix that is used to find the similarities among the movies and users respectively.
+The recommendation model has been made based on collaborative filtering using the concept of cosine similarity matrix that is used to find the similarities among the movies and users respectively.
 
 The dataset for the same is also provided.
